@@ -1,7 +1,7 @@
 
+[**Watch the video preview**](https://www.youtube.com/watch?v=Vp12NUNJ6xM)
 
 
-Uploading SHOPPING CART.mp4…
 
 
 # Getting Started with Create React App
